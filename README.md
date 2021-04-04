@@ -1,7 +1,7 @@
-# UFC-Predictions
+# UFC-Predictions, The Power of Classification
 
 ## Business Questions:
-1. Can you predict the outcome of the next UFC fight?
+1. Can you predict the outcome of the next UFC fight (RED, BLUE)?
 2. Can you predict the method of victory (KO, DEC, SUB)?
 3. Can you predict what round the fight will end (1,2,3) or (1,2,3,4,5)?
 
